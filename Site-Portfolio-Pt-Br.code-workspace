@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Site-Portfolio-Pt-Br/imgs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Site-Portfolio-Pt-Br",
+		"liveServer.settings.port": 5502
+	}
+}
